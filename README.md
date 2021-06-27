@@ -1,2 +1,2 @@
 # HandlingAccessViolations
-Code for handling access violations acceptions
+Code for handling access violations exceptions
